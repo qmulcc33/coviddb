@@ -1,0 +1,8 @@
+# your virtual flask env folder:
+flask_venv/
+
+#the instance / folder containing secret stuff
+instance/
+
+
+
